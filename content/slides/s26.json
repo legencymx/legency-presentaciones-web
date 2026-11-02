@@ -1,0 +1,11 @@
+{
+  "id": "s26",
+  "title": "Predicción 01 (blanco)",
+  "background": "green",
+  "chrome": {"header": "green"},
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a047", "box": [0, 0, 720, 405], "fit": "cover", "pos": "50% 0%"},
+    {"id": "etiqueta", "type": "text", "box": [20.7, 46.0, 200, 10], "font": "expanded", "size": 7.8, "lh": 1.02, "color": "green", "lineFill": "blue", "lineFillPad": 0.5, "text": "/ PREDICCIÓN 01 LEGENCY"},
+    {"id": "texto", "type": "text", "box": [18, 61.2, 225, 140], "font": "condensed", "size": 38, "lh": 0.84, "color": "white", "text": "La cultura de un equipo será tan importante como la tecnología."}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "s01",
+  "title": "Portada · cliente",
+  "background": "black",
+  "notes": "Fondo animado original extraído de la exportación SVG de la diapositiva 1. Reemplazable mediante s01-portada.",
+  "elements": [
+    {"id": "foto-portada", "type": "media", "media": "s01-portada", "box": [0, 0, 720, 405], "fit": "cover", "missingLabel": "bottom", "alt": "Retrato frente a un muro de stickers en CDMX"},
+    {"id": "linea-sup", "type": "shape", "box": [45, 28, 630, 0.9], "fill": "red"},
+    {"id": "linea-inf", "type": "shape", "box": [45, 359.6, 630, 0.9], "fill": "red"},
+    {"id": "ovalo-izq", "type": "shape", "box": [45, 9, 45, 15], "ellipse": true, "border": [0.9, "red"]},
+    {"id": "ovalo-der", "type": "shape", "box": [632, 9, 45, 15], "ellipse": true, "border": [0.9, "red"]},
+    {"id": "ciudad", "type": "text", "box": [45, 9, 45, 15], "font": "expanded", "size": 10, "color": "red", "align": "center", "valign": "middle", "lh": 1, "text": "CDMX"},
+    {"id": "anio", "type": "text", "box": [632, 9, 45, 15], "font": "expanded", "size": 12, "color": "red", "align": "center", "valign": "middle", "lh": 1, "text": "2026"},
+    {"id": "marca", "type": "text", "box": [45, 180.7, 200, 50], "font": "expanded", "size": 38, "lh": 1.02, "color": "red", "wrap": false, "text": "legency^^®^^"},
+    {"id": "cliente", "type": "text", "box": [454.5, 180.7, 260, 50], "font": "expanded", "size": 38, "lh": 1.02, "color": "red", "wrap": false, "text": "cliente"},
+    {"id": "somos", "type": "text", "box": [45, 340.2, 80, 14], "font": "expanded", "size": 11, "lh": 1.02, "color": "red", "text": "Somos"},
+    {"id": "espiritu", "type": "text", "box": [325.8, 342.5, 120, 14], "font": "expanded", "size": 11, "lh": 1.02, "color": "red", "text": "de espíritu"},
+    {"id": "mexa", "type": "text", "box": [576, 339.6, 100.4, 14], "font": "expanded", "size": 11, "color": "red", "align": "right", "lh": 1.02, "text": "mexa."},
+    {"id": "disclaimer", "type": "text", "box": [160, 374.6, 400, 10], "font": "sans", "size": 6, "lh": 1.1, "color": "red", "align": "center", "text": "Informacion general de el proyecto y sus disclaimers"}
+  ]
+}

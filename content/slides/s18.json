@@ -1,0 +1,15 @@
+{
+  "id": "s18",
+  "title": "Cuestionamos para crear mejor",
+  "background": "blue",
+  "chrome": {"header": "green", "footer": "green"},
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a031", "box": [-3, 0, 726, 405], "fit": "cover"},
+    {"id": "rata", "type": "media", "media": "a017", "box": [642, 44, 60, 52]},
+    {"id": "linea-1", "type": "text", "box": [18.9, 202.5, 236.7, 50.4], "font": "condensed", "size": 45.5, "color": "ink", "fill": "green", "lh": 1.0, "pad": [-1.4, 0, 0, 1.35], "wrap": false, "text": "CUESTIONAMOS"},
+    {"id": "linea-2", "type": "text", "box": [128.3, 255.6, 56.3, 36], "font": "condensed", "size": 32.5, "color": "ink", "fill": "green", "lh": 1.0, "pad": [-0.4, 0, 0, 1.35], "wrap": false, "text": "PARA"},
+    {"id": "linea-3", "type": "text", "box": [92.3, 294.8, 226.4, 49.5], "font": "condensed", "size": 45.8, "color": "ink", "fill": "green", "lh": 1.0, "pad": [-1.1, 0, 0, 1.35], "wrap": false, "text": "CREAR MEJOR."},
+    {"id": "hashtag", "type": "text", "box": [273.8, 290, 78, 13], "font": "expanded", "size": 9, "color": "ink", "fill": "white", "align": "center", "valign": "middle", "lh": 1, "rotate": 14, "text": "#PUROCRAFT"},
+    {"id": "destello", "type": "media", "media": "a033", "box": [541, 162, 26, 30], "rotate": 65}
+  ]
+}

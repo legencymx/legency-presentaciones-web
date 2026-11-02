@@ -1,0 +1,9 @@
+{
+  "id": "s29",
+  "title": "Díptico · marco verde",
+  "background": "green",
+  "elements": [
+    {"id": "foto-1", "type": "media", "media": "a008", "box": [11, 11, 349, 384], "fit": "cover", "pos": "50% 15%"},
+    {"id": "foto-2", "type": "media", "media": "a039", "box": [360, 11, 349, 384], "fit": "cover", "pos": "50% 15%"}
+  ]
+}

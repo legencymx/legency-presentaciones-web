@@ -1,0 +1,16 @@
+{
+  "id": "s08",
+  "title": "Diversos talentos con creativos",
+  "background": "black",
+  "chrome": {"footer": "green"},
+  "elements": [
+    {"id": "estrella-1", "type": "media", "media": "a019", "box": [264, 129, 12, 11]},
+    {"id": "estrella-2", "type": "media", "media": "a019", "box": [448, 129, 12, 11]},
+    {"id": "pastilla", "type": "text", "box": [288.5, 122, 146.3, 25.2], "font": "expanded", "size": 15, "color": "blue", "fill": "green", "border": [0.9, "blue"], "radius": 3, "align": "center", "valign": "middle", "lh": 1, "text": "CONECTAMOS"},
+    {"id": "titulo-1", "type": "text", "box": [110, 153.9, 500, 60], "font": "display", "size": 55, "lh": 1.0, "color": "blue", "align": "center", "wrap": false, "text": "DIVERSOS TALENTOS"},
+    {"id": "con", "type": "text", "box": [220.5, 223.7, 48.6, 25.2], "font": "expanded", "size": 13, "color": "blue", "fill": "green", "border": [0.9, "blue"], "radius": "50%", "align": "center", "valign": "middle", "lh": 1, "text": "CON"},
+    {"id": "titulo-2", "type": "text", "box": [279, 211.5, 240, 60], "font": "display", "size": 55, "lh": 1.0, "color": "blue", "wrap": false, "text": "CREATIVOS"},
+    {"id": "onda", "type": "media", "media": "a020", "box": [369, 257, 124, 21]},
+    {"id": "sticker", "type": "media", "media": "a015", "box": [526, 193, 44, 44], "rotate": 14}
+  ]
+}

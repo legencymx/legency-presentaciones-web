@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "title": "LEGENCY® — TEMPLATE V.1_2026",
+  "source": "https://docs.google.com/presentation/d/1TBYxXUKHkKhr5OtkdYME89fK7OGISBBQk4ZxUMW3T4Q/edit",
+  "note": "Orden del deck y piezas compartidas (encabezado y pie). Cada diapositiva vive en content/slides/<id>.json.",
+  "tones": {
+    "green": { "color": "green", "logo": "a005" },
+    "blue": { "color": "blue", "logo": "a009" },
+    "white": { "color": "white", "logo": "a005" }
+  },
+  "chrome": {
+    "header": [
+      { "id": "header-left", "type": "text", "box": [19.5, 13, 80, 14], "font": "sans", "weight": 700, "size": 6, "lh": 1.02, "color": "tone", "text": "México, cultura y nueva creatividad" },
+      { "id": "header-logo", "type": "media", "media": "tone-logo", "box": [347, 11.5, 27, 15], "fit": "contain", "alt": "Legency de espíritu mexa" },
+      { "id": "header-right", "type": "text", "box": [605, 13, 90, 14], "font": "sans", "weight": 700, "size": 6, "lh": 1.02, "align": "right", "color": "tone", "text": "Nov.26\n@legency.mx" }
+    ],
+    "footer": [
+      { "id": "footer-line", "type": "shape", "box": [14.4, 381.3, 692.6, 0.9], "fill": "tone" },
+      { "id": "footer-left", "type": "text", "box": [18, 384, 120, 10], "font": "expanded", "size": 7, "color": "tone", "text": "legency®" },
+      { "id": "footer-center", "type": "text", "box": [257.8, 384, 200, 10], "font": "expanded", "size": 7, "align": "center", "color": "tone", "text": "puro craft" },
+      { "id": "footer-right", "type": "text", "box": [586, 384, 120, 10], "font": "expanded", "size": 7, "align": "right", "color": "tone", "text": "mexa." }
+    ]
+  },
+  "slides": [
+    "s01", "s02", "s03", "s04", "s05", "s06", "s07", "s08", "s09", "s10",
+    "s11", "s12", "s13", "s14", "s15", "s16", "s17", "s18", "s19", "s20",
+    "s21", "s22", "s23", "s24", "s25", "s26", "s27", "s28", "s29", "s30",
+    "s31", "s32", "s33", "s34", "s35", "s36", "s37", "s38", "s39", "s40",
+    "s41", "s42", "s43", "s44", "s45"
+  ]
+}

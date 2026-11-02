@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Legency · Presentaciones</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="src/slide.css">
+  <link rel="stylesheet" href="src/viewer.css">
+</head>
+<body>
+  <main class="stage" id="stage" aria-roledescription="presentación"></main>
+
+  <nav class="bar" id="bar" aria-label="Controles de la presentación">
+    <div class="bar-nav">
+      <button type="button" class="btn icon" id="prev" aria-label="Diapositiva anterior" title="Anterior (←)">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M12.5 4 6.5 10l6 6" /></svg>
+      </button>
+      <span class="counter" id="counter" aria-live="off">1 / 45</span>
+      <button type="button" class="btn icon" id="next" aria-label="Diapositiva siguiente" title="Siguiente (→)">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="m7.5 4 6 6-6 6" /></svg>
+      </button>
+    </div>
+    <p class="bar-title" id="slide-title" aria-live="polite"></p>
+    <div class="bar-actions">
+      <a class="btn" href="editor.html" title="Editar contenido">Editar</a>
+      <button type="button" class="btn" id="open-index" aria-controls="index" aria-expanded="false" title="Índice (I)">Índice</button>
+      <button type="button" class="btn" id="open-overview" aria-controls="overview" aria-expanded="false" title="Vista general (G)">Vista general</button>
+      <button type="button" class="btn" id="toggle-fs" title="Pantalla completa (F)">Pantalla completa</button>
+      <button type="button" class="btn icon" id="open-help" aria-label="Atajos de teclado" title="Atajos (?)">?</button>
+    </div>
+  </nav>
+
+  <aside class="index" id="index" aria-label="Índice de diapositivas" hidden>
+    <header class="panel-head">
+      <h2>Índice</h2>
+      <button type="button" class="btn" data-close="index">Cerrar</button>
+    </header>
+    <ol class="index-list" id="index-list"></ol>
+  </aside>
+
+  <section class="overview" id="overview" aria-label="Vista general" hidden>
+    <header class="panel-head">
+      <h2 id="overview-title">Vista general</h2>
+      <button type="button" class="btn" data-close="overview">Volver a la presentación</button>
+    </header>
+    <ol class="grid" id="grid"></ol>
+  </section>
+
+  <dialog class="help" id="help" aria-labelledby="help-title">
+    <h2 id="help-title">Atajos de teclado</h2>
+    <dl>
+      <dt><kbd>→</kbd> <kbd>Espacio</kbd> <kbd>Av Pág</kbd></dt><dd>Siguiente</dd>
+      <dt><kbd>←</kbd> <kbd>Re Pág</kbd></dt><dd>Anterior</dd>
+      <dt><kbd>Inicio</kbd> <kbd>Fin</kbd></dt><dd>Primera y última</dd>
+      <dt><kbd>12</kbd> <kbd>Enter</kbd></dt><dd>Ir a la diapositiva 12</dd>
+      <dt><kbd>G</kbd></dt><dd>Vista general</dd>
+      <dt><kbd>I</kbd></dt><dd>Índice</dd>
+      <dt><kbd>F</kbd></dt><dd>Pantalla completa</dd>
+      <dt><kbd>Esc</kbd></dt><dd>Cerrar panel</dd>
+    </dl>
+    <form method="dialog"><button class="btn" autofocus>Entendido</button></form>
+  </dialog>
+
+  <p class="jump" id="jump" hidden></p>
+  <p class="error" id="error" hidden></p>
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

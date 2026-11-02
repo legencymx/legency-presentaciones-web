@@ -1,0 +1,16 @@
+{
+  "id": "s19",
+  "title": "México también se escribe en plural",
+  "background": "magenta",
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a034", "box": [-3, 0, 726, 405], "fit": "cover"},
+    {"id": "comillas", "type": "text", "box": [16, 222, 60, 40], "font": "expanded", "size": 62, "color": "green", "lh": 1, "text": "“"},
+    {"id": "linea-1", "type": "text", "box": [20.3, 264.6, 225, 41.4], "font": "expanded", "size": 45, "color": "green", "fill": "blue", "valign": "middle", "lh": 1, "pad": [0, 0, 0, 0.6], "wrap": false, "text": "MÉXICO"},
+    {"id": "linea-2", "type": "text", "box": [20.3, 306, 282.6, 29.3], "font": "expanded", "size": 25, "color": "green", "fill": "blue", "valign": "middle", "lh": 1, "pad": [0, 0, 0, 0.6], "wrap": false, "text": "también se escribe"},
+    {"id": "linea-3", "type": "text", "box": [20.3, 335.3, 309, 36.5], "font": "expanded", "size": 45, "color": "green", "fill": "blue", "valign": "middle", "lh": 1, "pad": [0, 0, 0, 0.6], "wrap": false, "text": "EN PLURAL."},
+    {"id": "sticker", "type": "media", "media": "a015", "box": [662, 31, 44, 44], "rotate": 10},
+    {"id": "sticker-cdmx", "type": "media", "media": "a002", "box": [330.8, 338.4, 59.8, 24]},
+    {"id": "asterisco-1", "type": "media", "media": "a035", "box": [544.5, 63, 31.5, 47]},
+    {"id": "asterisco-2", "type": "media", "media": "a035", "box": [366.8, 114.8, 24.8, 33.8]}
+  ]
+}

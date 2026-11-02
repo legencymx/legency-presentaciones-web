@@ -1,0 +1,12 @@
+{
+  "id": "s38",
+  "title": "Síguenos",
+  "background": "black",
+  "elements": [
+    {"id": "logo", "type": "media", "media": "a005", "box": [337.5, 153, 40.5, 22.5], "alt": "Legency de espíritu mexa"},
+    {"id": "texto", "type": "text", "box": [270, 194.8, 180, 40], "font": "expanded", "size": 10, "lh": 1.06, "color": "green", "align": "center", "text": "PARA MÁS INSIGHTS EN AI CREATIVA, SÍGUENOS EN @LEGENCY.MX"},
+    {"id": "retrato-1", "type": "media", "media": "a039", "box": [128.3, 221.9, 85.5, 85.5], "crop": [0.1, 0.05, 0.1, 0.45], "radius": "50%", "border": [2, "green"]},
+    {"id": "retrato-2", "type": "media", "media": "a039", "box": [499.5, 102.2, 86.4, 86], "crop": [0.1, 0.05, 0.1, 0.45], "radius": "50%", "border": [2, "green"]},
+    {"id": "instagram", "type": "media", "media": "a064", "box": [350, 245, 15, 15], "alt": "Instagram de Legency", "link": "https://www.instagram.com/legency.mx/", "linkLabel": "Abrir Instagram de @legency.mx"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "s33",
+  "title": "Think first, prompt later",
+  "background": "black",
+  "chrome": {"header": "green", "footer": "green"},
+  "elements": [
+    {"id": "subrayado", "type": "media", "media": "a056", "box": [380, 261, 182, 27]},
+    {"id": "titulo", "type": "text", "box": [112, 140.8, 495, 146], "font": "condensed", "size": 81, "lh": 0.8, "color": "blue", "align": "center", "text": "THINK FIRST. PROMPT LATER."},
+    {"id": "cinta", "type": "media", "media": "a057", "box": [147, 144, 118, 38], "crop": [0.102, 0.378, 0.12, 0.382], "rotate": -28},
+    {"id": "signos", "type": "media", "media": "a058", "box": [528.8, 183.6, 49.5, 61.7]}
+  ]
+}

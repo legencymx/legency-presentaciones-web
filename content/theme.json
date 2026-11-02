@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "note": "Variables de diseño del deck. Los slides usan los nombres de color y de fuente, nunca valores sueltos, para que un cambio aquí se propague a todo.",
+  "canvas": { "width": 720, "height": 405, "unit": "pt" },
+  "colors": {
+    "green": "#41FC3F",
+    "blue": "#001AFF",
+    "ink": "#1B1B1B",
+    "black": "#000000",
+    "paper": "#E7E7E7",
+    "white": "#FFFFFF",
+    "red": "#FF0000",
+    "red-band": "#E80403",
+    "orange": "#FA2F03",
+    "magenta": "#E826EE",
+    "grey": "#C4C4C4"
+  },
+  "fonts": {
+    "display": { "family": "Anton", "google": "Anton", "fallback": "Impact, 'Arial Narrow', sans-serif" },
+    "condensed": { "family": "Special Gothic Condensed One", "google": "Special Gothic Condensed One", "fallback": "'Arial Narrow', sans-serif" },
+    "expanded": { "family": "Special Gothic Expanded One", "google": "Special Gothic Expanded One", "fallback": "'Arial Black', sans-serif" },
+    "sans": { "family": "Special Gothic", "google": "Special Gothic:wdth,wght@75..125,400..700", "fallback": "system-ui, sans-serif" }
+  },
+  "text": {
+    "display": { "font": "display", "lh": 0.9 },
+    "condensed": { "font": "condensed", "lh": 1.02 },
+    "expanded": { "font": "expanded", "lh": 1.02 },
+    "sans": { "font": "sans", "lh": 1.1 }
+  }
+}

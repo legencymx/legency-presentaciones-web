@@ -1,0 +1,7 @@
+{
+  "id": "s11",
+  "title": "Base negra",
+  "background": "black",
+  "chrome": {"header": "green", "footer": "green"},
+  "elements": []
+}

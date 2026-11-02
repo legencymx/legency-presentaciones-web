@@ -1,0 +1,14 @@
+{
+  "id": "s36",
+  "title": "Creative",
+  "background": "black",
+  "elements": [
+    {"id": "computadora", "type": "media", "media": "a062", "box": [90, 0, 541, 405], "fit": "cover"},
+    {"id": "izq-1", "type": "text", "box": [13.5, 21.0, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "CREATIVE"},
+    {"id": "izq-2", "type": "text", "box": [13.5, 64.6, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "CREATIVE"},
+    {"id": "izq-3", "type": "text", "box": [13.5, 109.2, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "CREATIVE"},
+    {"id": "der-1", "type": "text", "box": [452.3, 253.2, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "CREATIVE"},
+    {"id": "der-2", "type": "text", "box": [452.3, 296.8, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "CREATIVE"},
+    {"id": "der-3", "type": "text", "box": [452.3, 340.9, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "CREATIVE"}
+  ]
+}

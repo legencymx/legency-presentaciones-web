@@ -1,0 +1,20 @@
+{
+  "id": "s04",
+  "title": "Coincidir",
+  "background": "paper",
+  "chrome": {"footer": "blue"},
+  "elements": [
+    {"id": "cuadricula", "type": "media", "media": "a007", "box": [0, 0, 720, 405], "fit": "cover", "opacity": 0.07, "blend": "multiply"},
+    {"id": "logo", "type": "media", "media": "a009", "box": [28, 26, 53, 29], "alt": "Legency de espíritu mexa"},
+    {"id": "foto", "type": "media", "media": "a011", "box": [345, 11, 363, 361], "fit": "cover", "pos": "50% 45%", "radius": 13},
+    {"id": "estrella-1", "type": "media", "media": "a013", "box": [27, 130, 12, 11]},
+    {"id": "estrella-2", "type": "media", "media": "a013", "box": [168, 130, 12, 11]},
+    {"id": "pastilla", "type": "text", "box": [43.7, 122.9, 118.8, 26.5], "font": "expanded", "size": 15, "color": "blue", "fill": "green", "border": [0.9, "blue"], "radius": 3, "align": "center", "valign": "middle", "lh": 1, "text": "QUÉ BUENO"},
+    {"id": "titulo", "type": "text", "box": [27.9, 153.5, 330, 80], "font": "display", "size": 75, "lh": 1.0, "color": "blue", "wrap": false, "text": "COINCIDIR."},
+    {"id": "barra", "type": "shape", "box": [27, 237.6, 297, 4.5], "fill": "blue"},
+    {"id": "bajada", "type": "text", "box": [31.5, 250.7, 240, 52], "font": "condensed", "size": 24, "lh": 1.0, "color": "blue", "text": "Aquí caben otras formas\nde hacer las cosas."},
+    {"id": "etiqueta", "type": "text", "box": [29.7, 326.5, 200, 9], "font": "expanded", "size": 7, "lh": 1.02, "color": "blue", "text": "CREATIVIDAD / MOTION / TECH"},
+    {"id": "flecha", "type": "media", "media": "a012", "box": [272, 262, 104, 46], "rotate": -14},
+    {"id": "sticker", "type": "media", "media": "a015", "box": [668, 110, 42, 42], "rotate": 14}
+  ]
+}

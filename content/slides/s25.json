@@ -1,0 +1,16 @@
+{
+  "id": "s25",
+  "title": "Enfócate en lo esencial",
+  "background": "black",
+  "chrome": {"header": "green"},
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a003", "box": [0, 0, 359, 286], "fit": "cover", "pos": "50% 20%"},
+    {"id": "panel", "type": "shape", "box": [359, 0, 361, 405], "fill": "paper"},
+    {"id": "trazo", "type": "media", "media": "a045", "box": [381, 158.4, 124.7, 30]},
+    {"id": "titulo", "type": "text", "box": [388, 51.5, 220, 140], "font": "expanded", "size": 25, "lh": 1.044, "color": "ink", "text": "ENFÓCATE EN\nLO ESENCIAL.\nDEJA QUE LOS\nCREATIVOS CREEN."},
+    {"id": "cita", "type": "text", "box": [30.6, 319.5, 290, 50], "font": "expanded", "size": 16, "lh": 0.985, "color": "white", "accent": "green", "text": "“Sin importar cuánto cambie el mundo, la **creatividad** nunca pasará de moda.”"},
+    {"id": "asterisco", "type": "text", "box": [469, 250, 20, 20], "font": "expanded", "size": 22, "color": "ink", "lh": 1, "text": "*"},
+    {"id": "texto", "type": "text", "box": [470.3, 267.3, 225, 110], "font": "condensed", "size": 14, "lh": 0.964, "color": "ink", "pgap": 12.15, "text": "No esperes que la inteligencia artificial resuelva todos tus problemas.\n\nEn su lugar, pregunta a tu equipo creativo cómo está utilizando la IA, en qué le está ayudando y qué espera que pueda resolver en el futuro. Después, identifica una o dos áreas en las que valga la pena profundizar."},
+    {"id": "lineas", "type": "media", "media": "a046", "box": [288, 266.4, 35, 39.6]}
+  ]
+}

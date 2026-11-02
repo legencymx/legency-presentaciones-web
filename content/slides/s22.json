@@ -1,0 +1,13 @@
+{
+  "id": "s22",
+  "title": "Nuevas voces, nuevas reglas",
+  "background": "blue",
+  "chrome": {"header": "green", "footer": "green"},
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a040", "box": [-3, 0, 726, 405], "fit": "cover"},
+    {"id": "titulo-1", "type": "text", "box": [21.6, 46.2, 300, 50], "font": "condensed", "size": 46, "lh": 1.0, "color": "ink", "wrap": false, "mark": {"fill": "green", "pad": [1.2, 1.4]}, "text": "==NUEVAS== ==VOCES.=="},
+    {"id": "titulo-2", "type": "text", "box": [41.4, 95.7, 300, 50], "font": "condensed", "size": 46, "lh": 1.0, "color": "ink", "wrap": false, "mark": {"fill": "green", "pad": [1.2, 1.4]}, "text": "==NUEVAS REGLAS.=="},
+    {"id": "luchador", "type": "media", "media": "a041", "box": [9.9, 132.8, 43.2, 49.5], "rotate": -10},
+    {"id": "texto", "type": "text", "box": [506.7, 287.9, 196, 80], "font": "condensed", "size": 18, "lh": 0.96, "color": "white", "text": "Somos una generación que mezcla referencias, transforma códigos y construye nuevas expresiones culturales."}
+  ]
+}

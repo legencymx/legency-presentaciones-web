@@ -1,0 +1,11 @@
+{
+  "id": "s23",
+  "title": "¿Por qué ahora?",
+  "background": "blue",
+  "chrome": {"header": "green"},
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a042", "box": [-3, 0, 726, 405], "fit": "cover"},
+    {"id": "ovalo", "type": "media", "media": "a043", "box": [585, 93.2, 41.4, 27.5]},
+    {"id": "texto", "type": "text", "box": [502.7, 100.6, 185, 270], "font": "condensed", "size": 18, "lh": 0.975, "color": "white", "pgap": 11.7, "accent": "green", "mark": {"fill": "green", "color": "ink", "pad": [0, 0.6]}, "text": "Está claro que 2026 representa un punto de inflexión importante y una oportunidad extraordinaria.\n\nPero ==¿por qué ahora?==\n\nPara empezar, los líderes están realizando inversiones estratégicas en sus equipos de marketing y creatividad, aumentando sus presupuestos e impulsándolos a adoptar nuevas tecnologías.\n\n**¿Te gusta esta personalidad?**"}
+  ]
+}

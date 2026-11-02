@@ -1,0 +1,23 @@
+{
+  "id": "s45",
+  "title": "Trazos verdes",
+  "background": "black",
+  "elements": [
+    {"id": "pieza-01", "type": "media", "media": "a033", "box": [248, 229, 75, 54], "fit": "fill"},
+    {"id": "pieza-02", "type": "media", "media": "a140", "box": [218, 340, 135, 46], "fit": "fill"},
+    {"id": "pieza-03", "type": "media", "media": "a141", "box": [298, 168, 135, 32], "fit": "fill"},
+    {"id": "pieza-04", "type": "media", "media": "a142", "box": [417, 249, 135, 42], "fit": "fill"},
+    {"id": "pieza-05", "type": "media", "media": "a143", "box": [541, 36, 135, 42], "fit": "fill"},
+    {"id": "pieza-06", "type": "media", "media": "a144", "box": [47, 225, 106, 42], "fit": "fill"},
+    {"id": "pieza-07", "type": "media", "media": "a145", "box": [516, 213, 135, 26], "fit": "fill"},
+    {"id": "pieza-08", "type": "media", "media": "a146", "box": [376, 325, 135, 22], "fit": "fill"},
+    {"id": "pieza-09", "type": "media", "media": "a147", "box": [218, 120, 135, 23], "fit": "fill"},
+    {"id": "pieza-10", "type": "media", "media": "a148", "box": [67, 321, 135, 23], "fit": "fill"},
+    {"id": "pieza-11", "type": "media", "media": "a149", "box": [504, 151, 135, 16], "fit": "fill"},
+    {"id": "pieza-12", "type": "media", "media": "a150", "box": [293, 29, 135, 46], "fit": "fill"},
+    {"id": "pieza-13", "type": "media", "media": "a151", "box": [41, 160, 135, 20], "fit": "fill"},
+    {"id": "pieza-14", "type": "media", "media": "a152", "box": [556, 304, 135, 65], "fit": "fill"},
+    {"id": "pieza-15", "type": "media", "media": "a153", "box": [430, 100, 135, 35], "fit": "fill"},
+    {"id": "pieza-16", "type": "media", "media": "a154", "box": [75, 74, 135, 34], "fit": "fill"}
+  ]
+}

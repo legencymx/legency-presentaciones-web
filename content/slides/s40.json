@@ -1,0 +1,17 @@
+{
+  "id": "s40",
+  "title": "Doodles verdes",
+  "background": "black",
+  "elements": [
+    {"id": "pieza-01", "type": "media", "media": "a085", "box": [66, 140, 77, 75], "fit": "fill"},
+    {"id": "pieza-02", "type": "media", "media": "a058", "box": [268, 168, 50, 75], "fit": "fill"},
+    {"id": "pieza-03", "type": "media", "media": "a087", "box": [420, 168, 72, 80], "fit": "fill"},
+    {"id": "pieza-04", "type": "media", "media": "a088", "box": [111, 267, 76, 80], "fit": "fill"},
+    {"id": "pieza-05", "type": "media", "media": "a012", "box": [462, 292, 109, 48], "fit": "fill"},
+    {"id": "pieza-06", "type": "media", "media": "a090", "box": [313, 41, 86, 80], "fit": "fill"},
+    {"id": "pieza-07", "type": "media", "media": "a091", "box": [442, 47, 117, 80], "fit": "fill"},
+    {"id": "pieza-08", "type": "media", "media": "a035", "box": [182, 48, 58, 80], "fit": "fill"},
+    {"id": "pieza-09", "type": "media", "media": "a030", "box": [270, 283, 109, 80], "fit": "fill"},
+    {"id": "pieza-10", "type": "media", "media": "a093", "box": [569, 157, 85, 80], "fit": "fill"}
+  ]
+}

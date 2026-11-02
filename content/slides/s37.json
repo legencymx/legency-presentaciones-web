@@ -1,0 +1,15 @@
+{
+  "id": "s37",
+  "title": "Gracias",
+  "background": "black",
+  "elements": [
+    {"id": "computadora", "type": "media", "media": "a062", "box": [94, 0, 541, 405], "fit": "cover"},
+    {"id": "izq-1", "type": "text", "box": [24.8, 21.9, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "GRACIAS"},
+    {"id": "izq-2", "type": "text", "box": [24.8, 65.1, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "GRACIAS"},
+    {"id": "izq-3", "type": "text", "box": [24.8, 108.8, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "GRACIAS"},
+    {"id": "der-1", "type": "text", "box": [463.5, 254.1, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "GRACIAS"},
+    {"id": "der-2", "type": "text", "box": [463.5, 297.8, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "GRACIAS"},
+    {"id": "der-3", "type": "text", "box": [463.5, 341.4, 300, 46], "font": "expanded", "size": 40, "lh": 1.0, "color": "green", "wrap": false, "text": "GRACIAS"},
+    {"id": "sticker-cdmx", "type": "media", "media": "a002", "box": [443, 250, 47, 20], "rotate": -8}
+  ]
+}

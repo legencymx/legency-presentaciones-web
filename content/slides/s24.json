@@ -1,0 +1,12 @@
+{
+  "id": "s24",
+  "title": "El futuro pertenece a creativos",
+  "background": "blue",
+  "chrome": {"header": "green"},
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a031", "box": [-3, 0, 726, 405], "fit": "cover", "crop": [0.13, 0.0, 0.0, 0.2]},
+    {"id": "intro", "type": "text", "box": [20.3, 81.3, 192, 60], "font": "sans", "size": 9.4, "lh": 0.93, "color": "white", "weight": 500, "accent": "blue", "accentWeight": 700, "text": "**Tienen razón.** Los líderes que destaquen serán aquellos que adopten la inteligencia artificial como una herramienta para potenciar la producción creativa, en lugar de utilizarla como un sustituto del talento, el oficio y el criterio que hay detrás de cada idea."},
+    {"id": "destacado", "type": "text", "box": [19.4, 149.8, 235, 60], "font": "condensed", "size": 18, "lh": 0.95, "color": "green", "lineFill": "blue", "lineFillPad": 0.5, "text": "El futuro pertenece a creativos más capaces, más versátiles y más valorados que nunca."},
+    {"id": "texto", "type": "text", "box": [19.4, 212.8, 236, 140], "font": "condensed", "size": 18, "lh": 0.95, "color": "white", "text": "Profesionales que liderarán equipos más pequeños, ágiles y estratégicos, capaces de crear trabajos que realmente merezcan destacar, precisamente porque detrás de ellos habrá alguien que se preocupó lo suficiente como para hacerlos significativos."}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "s31",
+  "title": "Made in Mexico · Ultra",
+  "background": "grey",
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a054", "box": [0, 0, 720, 405], "fit": "cover"},
+    {"id": "lema-izq", "type": "text", "box": [-161.1, 194.5, 360, 16], "font": "expanded", "size": 13, "color": "magenta", "align": "center", "valign": "middle", "lh": 1, "rotate": -90, "wrap": false, "text": "MADE IN MEXICO. MADE FOR EVERYWHERE."},
+    {"id": "lema-der", "type": "text", "box": [516.2, 194.5, 360, 16], "font": "expanded", "size": 13, "color": "magenta", "align": "center", "valign": "middle", "lh": 1, "rotate": 90, "wrap": false, "text": "MADE IN MEXICO. MADE FOR EVERYWHERE."}
+  ]
+}

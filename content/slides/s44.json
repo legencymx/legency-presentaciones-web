@@ -1,0 +1,23 @@
+{
+  "id": "s44",
+  "title": "Trazos azules",
+  "background": "black",
+  "elements": [
+    {"id": "pieza-01", "type": "media", "media": "a124", "box": [238, 251, 60, 43], "fit": "fill"},
+    {"id": "pieza-02", "type": "media", "media": "a125", "box": [550, 331, 126, 43], "fit": "fill"},
+    {"id": "pieza-03", "type": "media", "media": "a126", "box": [50, 54, 126, 30], "fit": "fill"},
+    {"id": "pieza-04", "type": "media", "media": "a127", "box": [377, 253, 126, 40], "fit": "fill"},
+    {"id": "pieza-05", "type": "media", "media": "a128", "box": [524, 129, 126, 39], "fit": "fill"},
+    {"id": "pieza-06", "type": "media", "media": "a129", "box": [292, 124, 126, 50], "fit": "fill"},
+    {"id": "pieza-07", "type": "media", "media": "a130", "box": [129, 104, 126, 24], "fit": "fill"},
+    {"id": "pieza-08", "type": "media", "media": "a131", "box": [276, 199, 126, 21], "fit": "fill"},
+    {"id": "pieza-09", "type": "media", "media": "a132", "box": [112, 331, 126, 22], "fit": "fill"},
+    {"id": "pieza-10", "type": "media", "media": "a133", "box": [377, 326, 126, 22], "fit": "fill"},
+    {"id": "pieza-11", "type": "media", "media": "a134", "box": [450, 199, 126, 15], "fit": "fill"},
+    {"id": "pieza-12", "type": "media", "media": "a135", "box": [308, 48, 126, 43], "fit": "fill"},
+    {"id": "pieza-13", "type": "media", "media": "a136", "box": [541, 279, 126, 18], "fit": "fill"},
+    {"id": "pieza-14", "type": "media", "media": "a137", "box": [44, 237, 126, 60], "fit": "fill"},
+    {"id": "pieza-15", "type": "media", "media": "a138", "box": [531, 68, 126, 32], "fit": "fill"},
+    {"id": "pieza-16", "type": "media", "media": "a139", "box": [86, 171, 126, 32], "fit": "fill"}
+  ]
+}

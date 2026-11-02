@@ -1,0 +1,17 @@
+{
+  "id": "s43",
+  "title": "Doodles blancos",
+  "background": "black",
+  "elements": [
+    {"id": "pieza-01", "type": "media", "media": "a114", "box": [85, 144, 74, 73], "fit": "fill"},
+    {"id": "pieza-02", "type": "media", "media": "a115", "box": [220, 197, 49, 73], "fit": "fill"},
+    {"id": "pieza-03", "type": "media", "media": "a046", "box": [430, 189, 70, 78], "fit": "fill"},
+    {"id": "pieza-04", "type": "media", "media": "a117", "box": [296, 256, 74, 78], "fit": "fill"},
+    {"id": "pieza-05", "type": "media", "media": "a118", "box": [320, 103, 102, 45], "fit": "fill"},
+    {"id": "pieza-06", "type": "media", "media": "a119", "box": [485, 288, 84, 78], "fit": "fill"},
+    {"id": "pieza-07", "type": "media", "media": "a120", "box": [81, 281, 113, 78], "fit": "fill"},
+    {"id": "pieza-08", "type": "media", "media": "a121", "box": [607, 195, 56, 78], "fit": "fill"},
+    {"id": "pieza-09", "type": "media", "media": "a122", "box": [162, 37, 90, 66], "fit": "fill"},
+    {"id": "pieza-10", "type": "media", "media": "a123", "box": [463, 61, 82, 78], "fit": "fill"}
+  ]
+}

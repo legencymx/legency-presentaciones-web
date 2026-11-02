@@ -1,0 +1,15 @@
+{
+  "id": "s14",
+  "title": "Aquí se viene a hacer comunidad (negro)",
+  "background": "black",
+  "chrome": {"footer": "green"},
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a023", "box": [339.8, 12.6, 366, 352.8], "fit": "cover", "pos": "61% 50%"},
+    {"id": "ilustracion", "type": "media", "media": "a016", "box": [260, 69, 225, 101], "filter": "white", "opacity": 0.25},
+    {"id": "titulo", "type": "text", "box": [18.9, 106.8, 330, 269], "font": "display", "size": 67, "lh": 0.973, "color": "green", "text": "AQUÍ\nSE VIENE A HACER COMUNIDAD."},
+    {"id": "sticker-cdmx", "type": "media", "media": "a002", "box": [202.5, 160, 46, 21], "rotate": 8},
+    {"id": "cinta", "type": "media", "media": "a025", "box": [630, -12, 100, 132], "crop": [0.285, 0.28, 0.285, 0.28]},
+    {"id": "trazos", "type": "media", "media": "a026", "box": [618, 322, 105, 25], "rotate": -28},
+    {"id": "etiqueta", "type": "text", "box": [20.7, 79.0, 200, 9], "font": "expanded", "size": 7, "lh": 1.02, "color": "green", "text": "CREATIVIDAD / MOTION / TECH"}
+  ]
+}

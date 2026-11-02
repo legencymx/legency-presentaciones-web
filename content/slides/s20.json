@@ -1,0 +1,17 @@
+{
+  "id": "s20",
+  "title": "Tenemos raíces (verde)",
+  "background": "black",
+  "chrome": {"header": "green", "footer": "green"},
+  "elements": [
+    {"id": "foto-1", "type": "media", "media": "a011", "box": [19.8, 53.1, 221, 300.2], "fit": "cover"},
+    {"id": "foto-2", "type": "media", "media": "a036", "box": [250.3, 53.1, 221, 300.2], "fit": "cover"},
+    {"id": "foto-3", "type": "media", "media": "a039", "box": [481, 53.1, 221, 300.2], "fit": "cover"},
+    {"id": "sombra", "type": "media", "media": "a037", "box": [272, 209, 174, 51]},
+    {"id": "titulo-1", "type": "text", "box": [260, 149.9, 200, 30], "font": "display", "size": 26, "lh": 1.0, "color": "green", "align": "center", "text": "TENEMOS"},
+    {"id": "titulo-2", "type": "text", "box": [230, 181.2, 260, 70], "font": "condensed", "size": 67, "lh": 1.0, "color": "green", "align": "center", "text": "RAÍCES"},
+    {"id": "bajada", "type": "text", "box": [320.4, 260.1, 78.8, 10.8], "font": "expanded", "size": 11, "color": "green", "fill": "ink", "align": "center", "valign": "middle", "lh": 1, "wrap": false, "text": "NO LÍMITES."},
+    {"id": "hashtag", "type": "text", "box": [652.5, 310.5, 59.4, 14.4], "font": "expanded", "size": 7, "color": "ink", "fill": "white", "align": "center", "valign": "middle", "lh": 1, "rotate": 4, "text": "#PUROCRAFT"},
+    {"id": "sticker-cdmx", "type": "media", "media": "a002", "box": [21, 52, 45, 20]}
+  ]
+}

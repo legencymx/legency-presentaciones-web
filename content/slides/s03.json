@@ -1,0 +1,16 @@
+{
+  "id": "s03",
+  "title": "Nuestra chamba se mueve (claro)",
+  "background": "paper",
+  "chrome": {"header": "blue", "footer": "blue"},
+  "elements": [
+    {"id": "cuadricula", "type": "media", "media": "a007", "box": [0, 0, 720, 405], "fit": "cover", "opacity": 0.07, "blend": "multiply"},
+    {"id": "foto", "type": "media", "media": "a008", "box": [361, 35, 340, 327], "fit": "cover", "pos": "50% 12%", "radius": 13},
+    {"id": "kicker", "type": "text", "box": [23.4, 89.7, 309, 24], "font": "condensed", "size": 17, "lh": 1.0, "color": "blue", "text": "Ideas con craft, criterio e IA."},
+    {"id": "titulo", "type": "text", "box": [22, 113.4, 309, 247], "font": "display", "size": 77, "lh": 1.02, "color": "blue", "text": "NUESTRA CHAMBA SE MUEVE."},
+    {"id": "sticker-cdmx", "type": "media", "media": "a002", "box": [243, 114, 42, 19], "rotate": 9},
+    {"id": "foto-mini", "type": "media", "media": "a003", "box": [291, 156, 109, 105], "fit": "cover", "pos": "50% 15%", "radius": 13, "rotate": -10},
+    {"id": "cinta", "type": "media", "media": "a004", "box": [322, 40, 108, 38], "crop": [0.17, 0.412, 0.157, 0.39], "rotate": -21},
+    {"id": "signos", "type": "media", "media": "a010", "box": [622, 259, 46, 57]}
+  ]
+}

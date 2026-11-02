@@ -1,0 +1,13 @@
+{
+  "id": "s34",
+  "title": "Think first · bandas rojas",
+  "background": "red-band",
+  "notes": "El original deja \"LATER.\" partido sobre la foto por desborde de la caja; se conserva igual.",
+  "elements": [
+    {"id": "foto", "type": "media", "media": "a059", "box": [0, 80, 720, 244], "fit": "cover"},
+    {"id": "banda-sup", "type": "text", "box": [11, 2.6, 680, 85], "font": "condensed", "size": 75, "lh": 1.11, "color": "black", "align": "center", "text": "THINK FIRST. PROMPT LATER."},
+    {"id": "banda-inf", "type": "text", "box": [11, 324.4, 680, 85], "font": "condensed", "size": 75, "lh": 1.11, "color": "black", "align": "center", "text": "THINK FIRST. PROMPT LATER."},
+    {"id": "cinta", "type": "media", "media": "a060", "box": [-64, 79, 175, 62], "crop": [0.168, 0.357, 0.167, 0.355], "rotate": -4},
+    {"id": "garabato", "type": "media", "media": "a061", "box": [657, 282.6, 63, 57]}
+  ]
+}

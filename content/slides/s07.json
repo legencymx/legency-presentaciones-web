@@ -1,0 +1,13 @@
+{
+  "id": "s07",
+  "title": "No todo lo mexicano es tradicional",
+  "background": "black",
+  "chrome": {"footer": "green"},
+  "elements": [
+    {"id": "logo", "type": "media", "media": "a005", "box": [331, 28, 59, 33], "alt": "Legency de espíritu mexa"},
+    {"id": "rata", "type": "media", "media": "a017", "box": [114, 143, 47, 45]},
+    {"id": "titulo", "type": "text", "box": [119, 152.2, 481, 110], "font": "display", "size": 52, "lh": 0.95, "color": "blue", "align": "center", "text": "NO TODO LO MEXICANO ES TRADICIONAL"},
+    {"id": "bajada", "type": "text", "box": [210, 260.2, 300, 24], "font": "expanded", "size": 10, "lh": 1.035, "color": "blue", "align": "center", "text": "También somos tecnología, cultura digital, nuevas narrativas y futuros por imaginar."},
+    {"id": "sticker", "type": "media", "media": "a015", "box": [536, 196, 47, 47], "rotate": 14}
+  ]
+}

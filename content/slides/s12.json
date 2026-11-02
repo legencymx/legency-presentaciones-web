@@ -1,0 +1,9 @@
+{
+  "id": "s12",
+  "title": "Base clara con ilustración",
+  "background": "paper",
+  "chrome": {"header": "blue", "footer": "blue"},
+  "elements": [
+    {"id": "ilustracion", "type": "media", "media": "a016", "box": [45, 62, 660, 297], "fit": "fill", "filter": "white", "opacity": 0.25}
+  ]
+}

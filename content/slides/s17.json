@@ -1,0 +1,15 @@
+{
+  "id": "s17",
+  "title": "Los líderes creativos del mañana",
+  "background": "ink",
+  "chrome": {"footer": "green"},
+  "elements": [
+    {"id": "marco", "type": "shape", "box": [14.4, 20.2, 691.2, 352.4], "fill": "paper"},
+    {"id": "trazo", "type": "media", "media": "a022", "box": [27.9, 145, 277.4, 37.3]},
+    {"id": "foto", "type": "media", "media": "a029", "box": [372.6, 27.9, 327.6, 336.6], "fit": "cover"},
+    {"id": "titulo", "type": "text", "box": [36, 35.6, 296, 150], "font": "condensed", "size": 35, "lh": 1.03, "color": "ink", "text": "LOS LÍDERES CREATIVOS DEL MAÑANA ESTARÁN MÁS INVOLUCRADOS EN EL PROCESO CREATIVO."},
+    {"id": "dato", "type": "text", "box": [36.9, 277.9, 120, 60], "font": "condensed", "size": 76, "lh": 1.0, "color": "ink", "text": "44%"},
+    {"id": "dato-texto", "type": "text", "box": [159.8, 317.3, 230, 30], "font": "sans", "size": 12.2, "lh": 0.92, "color": "ink", "text": "Image and visual\ngeneration from briefs"},
+    {"id": "garabato", "type": "media", "media": "a030", "box": [644, 278, 100, 92]}
+  ]
+}

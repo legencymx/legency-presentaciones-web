@@ -1,0 +1,1188 @@
+{
+  "version": 1,
+  "note": "Biblioteca de medios. Cambia \"src\" para reemplazar un medio en todas las diapositivas que lo usan.",
+  "aliases": {
+    "a014": "a009",
+    "a018": "a005",
+    "a024": "a016",
+    "a028": "a022",
+    "a032": "a017",
+    "a038": "a011",
+    "a044": "a031",
+    "a051": "a008",
+    "a052": "a039",
+    "a063": "a039",
+    "a065": "a017",
+    "a070": "a013",
+    "a071": "a019",
+    "a074": "a057",
+    "a075": "a060",
+    "a079": "a025",
+    "a080": "a021",
+    "a081": "a022",
+    "a082": "a045",
+    "a083": "a037",
+    "a086": "a058",
+    "a089": "a012",
+    "a092": "a030",
+    "a105": "a010",
+    "a110": "a043",
+    "a112": "a006",
+    "a116": "a046"
+  },
+  "media": {
+    "a001": {
+      "label": "Foto · chico de rojo con caja (fondo rojo)",
+      "kind": "image",
+      "src": "reference/assets/001.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 001"
+    },
+    "a002": {
+      "label": "Sticker · CDMX óvalo verde/azul",
+      "kind": "image",
+      "src": "reference/assets/002.png",
+      "w": 1502,
+      "h": 674,
+      "alt": "",
+      "source": "Google Slides · asset 002"
+    },
+    "a003": {
+      "label": "Foto · chica con sombrero y Guadalupana (fondo rosa)",
+      "kind": "image",
+      "src": "reference/assets/003.jpg",
+      "h": 1800,
+      "w": 1200,
+      "alt": "",
+      "source": "Google Slides · asset 003"
+    },
+    "a004": {
+      "label": "Cinta adhesiva translúcida",
+      "kind": "image",
+      "src": "reference/assets/004.png",
+      "w": 1080,
+      "h": 1080,
+      "alt": "",
+      "source": "Google Slides · asset 004"
+    },
+    "a005": {
+      "label": "Logo · Legency de espíritu mexa (verde)",
+      "kind": "image",
+      "src": "reference/assets/005.png",
+      "w": 2048,
+      "h": 1123,
+      "alt": "",
+      "source": "Google Slides · asset 005"
+    },
+    "a006": {
+      "label": "Trazo · garabato M azul",
+      "kind": "image",
+      "src": "reference/assets/006.png",
+      "w": 1352,
+      "h": 993,
+      "alt": "",
+      "source": "Google Slides · asset 006"
+    },
+    "a007": {
+      "label": "Textura · papel cuadriculado",
+      "kind": "image",
+      "src": "reference/assets/007.jpg",
+      "h": 1366,
+      "w": 2048,
+      "alt": "",
+      "source": "Google Slides · asset 007"
+    },
+    "a008": {
+      "label": "Foto · chica con laptop (fondo azul)",
+      "kind": "image",
+      "src": "reference/assets/008.png",
+      "w": 1024,
+      "h": 1536,
+      "alt": "",
+      "source": "Google Slides · asset 008"
+    },
+    "a009": {
+      "label": "Logo · Legency de espíritu mexa (azul)",
+      "kind": "image",
+      "src": "reference/assets/009.png",
+      "w": 1300,
+      "h": 734,
+      "alt": "",
+      "source": "Google Slides · asset 009"
+    },
+    "a010": {
+      "label": "Trazo · signos !! azules",
+      "kind": "image",
+      "src": "reference/assets/010.png",
+      "w": 926,
+      "h": 1393,
+      "alt": "",
+      "source": "Google Slides · asset 010"
+    },
+    "a011": {
+      "label": "Foto · chico de traje azul en silla",
+      "kind": "image",
+      "src": "reference/assets/011.png",
+      "w": 1024,
+      "h": 1536,
+      "alt": "",
+      "source": "Google Slides · asset 011"
+    },
+    "a012": {
+      "label": "Trazo · flecha verde",
+      "kind": "image",
+      "src": "reference/assets/012.png",
+      "w": 1564,
+      "h": 686,
+      "alt": "",
+      "source": "Google Slides · asset 012"
+    },
+    "a013": {
+      "label": "Sticker · estrella azul",
+      "kind": "image",
+      "src": "reference/assets/013.png",
+      "w": 2048,
+      "h": 1948,
+      "alt": "",
+      "source": "Google Slides · asset 013"
+    },
+    "a015": {
+      "label": "Sticker · Hecho en Legency",
+      "kind": "image",
+      "src": "reference/assets/015.png",
+      "w": 996,
+      "h": 999,
+      "alt": "",
+      "source": "Google Slides · asset 015"
+    },
+    "a016": {
+      "label": "Ilustración · Mala Conducta (negro)",
+      "kind": "image",
+      "src": "reference/assets/016.png",
+      "w": 2048,
+      "h": 922,
+      "alt": "",
+      "source": "Google Slides · asset 016"
+    },
+    "a017": {
+      "label": "Ilustración · rata verde",
+      "kind": "image",
+      "src": "reference/assets/017.png",
+      "w": 1870,
+      "h": 1693,
+      "alt": "",
+      "source": "Google Slides · asset 017"
+    },
+    "a019": {
+      "label": "Sticker · estrella verde",
+      "kind": "image",
+      "src": "reference/assets/019.png",
+      "w": 2048,
+      "h": 1948,
+      "alt": "",
+      "source": "Google Slides · asset 019"
+    },
+    "a020": {
+      "label": "Trazo · ondulado verde",
+      "kind": "image",
+      "src": "reference/assets/020.png",
+      "w": 2048,
+      "h": 352,
+      "alt": "",
+      "source": "Google Slides · asset 020"
+    },
+    "a021": {
+      "label": "Trazo · subrayado azul doble",
+      "kind": "image",
+      "src": "reference/assets/021.png",
+      "w": 2048,
+      "h": 267,
+      "alt": "",
+      "source": "Google Slides · asset 021"
+    },
+    "a022": {
+      "label": "Trazo · subrayado verde doble",
+      "kind": "image",
+      "src": "reference/assets/022.png",
+      "w": 1536,
+      "h": 201,
+      "alt": "",
+      "source": "Google Slides · asset 022"
+    },
+    "a023": {
+      "label": "Foto · chica en mercado con Guadalupana",
+      "kind": "image",
+      "src": "reference/assets/023.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 023"
+    },
+    "a025": {
+      "label": "Cinta adhesiva arrugada",
+      "kind": "image",
+      "src": "reference/assets/025.png",
+      "w": 1080,
+      "h": 1080,
+      "alt": "",
+      "source": "Google Slides · asset 025"
+    },
+    "a026": {
+      "label": "Trazo · líneas negras dobles",
+      "kind": "image",
+      "src": "reference/assets/026.png",
+      "w": 2048,
+      "h": 491,
+      "alt": "",
+      "source": "Google Slides · asset 026"
+    },
+    "a027": {
+      "label": "Foto · chico con chamarra en barra metálica",
+      "kind": "image",
+      "src": "reference/assets/027.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 027"
+    },
+    "a029": {
+      "label": "Foto · chica magenta con celular (fondo verde)",
+      "kind": "image",
+      "src": "reference/assets/029.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 029"
+    },
+    "a030": {
+      "label": "Trazo · garabato M verde",
+      "kind": "image",
+      "src": "reference/assets/030.png",
+      "w": 1352,
+      "h": 993,
+      "alt": "",
+      "source": "Google Slides · asset 030"
+    },
+    "a031": {
+      "label": "Foto · chica en cuclillas con celular (fondo azul)",
+      "kind": "image",
+      "src": "reference/assets/031.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 031"
+    },
+    "a033": {
+      "label": "Trazo · destello verde",
+      "kind": "image",
+      "src": "reference/assets/033.png",
+      "w": 1187,
+      "h": 849,
+      "alt": "",
+      "source": "Google Slides · asset 033"
+    },
+    "a034": {
+      "label": "Foto · chica en laptop (fondo rosa)",
+      "kind": "image",
+      "src": "reference/assets/034.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 034"
+    },
+    "a035": {
+      "label": "Sticker · asterisco verde",
+      "kind": "image",
+      "src": "reference/assets/035.png",
+      "w": 996,
+      "h": 1389,
+      "alt": "",
+      "source": "Google Slides · asset 035"
+    },
+    "a036": {
+      "label": "Foto · chica con huacal (fondo verde)",
+      "kind": "image",
+      "src": "reference/assets/036.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 036"
+    },
+    "a037": {
+      "label": "Trazo · subrayado negro",
+      "kind": "image",
+      "src": "reference/assets/037.png",
+      "w": 747,
+      "h": 202,
+      "alt": "",
+      "source": "Google Slides · asset 037"
+    },
+    "a039": {
+      "label": "Foto · chico con laptop (fondo rosa)",
+      "kind": "image",
+      "src": "reference/assets/039.png",
+      "w": 1024,
+      "h": 1536,
+      "alt": "",
+      "source": "Google Slides · asset 039"
+    },
+    "a040": {
+      "label": "Foto · chica con celular rojo (fondo azul)",
+      "kind": "image",
+      "src": "reference/assets/040.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 040"
+    },
+    "a041": {
+      "label": "Sticker · máscara de luchador verde",
+      "kind": "image",
+      "src": "reference/assets/041.png",
+      "w": 1608,
+      "h": 2048,
+      "alt": "",
+      "source": "Google Slides · asset 041"
+    },
+    "a042": {
+      "label": "Foto · chica de rojo en cocina azul",
+      "kind": "image",
+      "src": "reference/assets/042.png",
+      "w": 1376,
+      "h": 768,
+      "alt": "",
+      "source": "Google Slides · asset 042"
+    },
+    "a043": {
+      "label": "Trazo · óvalo azul",
+      "kind": "image",
+      "src": "reference/assets/043.png",
+      "w": 1541,
+      "h": 1061,
+      "alt": "",
+      "source": "Google Slides · asset 043"
+    },
+    "a045": {
+      "label": "Trazo · subrayado verde grueso",
+      "kind": "image",
+      "src": "reference/assets/045.png",
+      "w": 747,
+      "h": 202,
+      "alt": "",
+      "source": "Google Slides · asset 045"
+    },
+    "a046": {
+      "label": "Trazo · tres líneas blancas",
+      "kind": "image",
+      "src": "reference/assets/046.png",
+      "w": 1056,
+      "h": 1180,
+      "alt": "",
+      "source": "Google Slides · asset 046"
+    },
+    "a047": {
+      "label": "Foto · chica con bolso verde (contrapicado)",
+      "kind": "image",
+      "src": "reference/assets/047.png",
+      "w": 2048,
+      "h": 1366,
+      "alt": "",
+      "source": "Google Slides · asset 047"
+    },
+    "a048": {
+      "label": "GIF · flecha animada",
+      "kind": "gif",
+      "src": "reference/assets/048.gif",
+      "w": 480,
+      "h": 480,
+      "alt": "",
+      "source": "Google Slides · asset 048"
+    },
+    "a049": {
+      "label": "Foto · chica con jersey y laptop",
+      "kind": "image",
+      "src": "reference/assets/049.png",
+      "w": 1024,
+      "h": 1536,
+      "alt": "",
+      "source": "Google Slides · asset 049"
+    },
+    "a050": {
+      "label": "Foto · retrato con maquillaje de payasita",
+      "kind": "image",
+      "src": "reference/assets/050.jpg",
+      "h": 1104,
+      "w": 736,
+      "alt": "",
+      "source": "Google Slides · asset 050"
+    },
+    "a053": {
+      "label": "Mockup · celular Dynamic Scenes",
+      "kind": "image",
+      "src": "reference/assets/053.png",
+      "w": 1800,
+      "h": 1348,
+      "alt": "",
+      "source": "Google Slides · asset 053"
+    },
+    "a054": {
+      "label": "Mockup · celular Ultra",
+      "kind": "image",
+      "src": "reference/assets/054.png",
+      "w": 2000,
+      "h": 1498,
+      "alt": "",
+      "source": "Google Slides · asset 054"
+    },
+    "a055": {
+      "label": "Mockup · laptop NEO",
+      "kind": "image",
+      "src": "reference/assets/055.png",
+      "w": 1800,
+      "h": 1348,
+      "alt": "",
+      "source": "Google Slides · asset 055"
+    },
+    "a056": {
+      "label": "Trazo · subrayado verde largo",
+      "kind": "image",
+      "src": "reference/assets/056.png",
+      "w": 2048,
+      "h": 301,
+      "alt": "",
+      "source": "Google Slides · asset 056"
+    },
+    "a057": {
+      "label": "Cinta adhesiva negra",
+      "kind": "image",
+      "src": "reference/assets/057.png",
+      "w": 1080,
+      "h": 1080,
+      "alt": "",
+      "source": "Google Slides · asset 057"
+    },
+    "a058": {
+      "label": "Trazo · signos !! verdes",
+      "kind": "image",
+      "src": "reference/assets/058.png",
+      "w": 926,
+      "h": 1393,
+      "alt": "",
+      "source": "Google Slides · asset 058"
+    },
+    "a059": {
+      "label": "Mockup · celular rojo WT",
+      "kind": "image",
+      "src": "reference/assets/059.png",
+      "w": 1800,
+      "h": 1348,
+      "alt": "",
+      "source": "Google Slides · asset 059"
+    },
+    "a060": {
+      "label": "Cinta adhesiva plateada",
+      "kind": "image",
+      "src": "reference/assets/060.png",
+      "w": 1080,
+      "h": 1080,
+      "alt": "",
+      "source": "Google Slides · asset 060"
+    },
+    "a061": {
+      "label": "Trazo · garabato M negro",
+      "kind": "image",
+      "src": "reference/assets/061.png",
+      "w": 1352,
+      "h": 993,
+      "alt": "",
+      "source": "Google Slides · asset 061"
+    },
+    "a062": {
+      "label": "Foto · computadora retro",
+      "kind": "image",
+      "src": "reference/assets/062.png",
+      "w": 2000,
+      "h": 1498,
+      "alt": "",
+      "source": "Google Slides · asset 062"
+    },
+    "a064": {
+      "label": "Ícono · Instagram verde",
+      "kind": "image",
+      "src": "reference/assets/064.png",
+      "w": 2048,
+      "h": 2047,
+      "alt": "",
+      "source": "Google Slides · asset 064"
+    },
+    "a066": {
+      "label": "Ilustración · rata azul",
+      "kind": "image",
+      "src": "reference/assets/066.png",
+      "w": 1870,
+      "h": 1693,
+      "alt": "",
+      "source": "Google Slides · asset 066"
+    },
+    "a067": {
+      "label": "Ilustración · Mala Conducta (magenta)",
+      "kind": "image",
+      "src": "reference/assets/067.png",
+      "w": 2048,
+      "h": 922,
+      "alt": "",
+      "source": "Google Slides · asset 067"
+    },
+    "a068": {
+      "label": "Logo · Legency de espíritu mexa (azul, kit)",
+      "kind": "image",
+      "src": "reference/assets/068.png",
+      "w": 2048,
+      "h": 1123,
+      "alt": "",
+      "source": "Google Slides · asset 068"
+    },
+    "a069": {
+      "label": "Sticker · estrella roja",
+      "kind": "image",
+      "src": "reference/assets/069.png",
+      "w": 2048,
+      "h": 1948,
+      "alt": "",
+      "source": "Google Slides · asset 069"
+    },
+    "a072": {
+      "label": "Sticker · CDMX amarillo",
+      "kind": "image",
+      "src": "reference/assets/072.png",
+      "w": 1991,
+      "h": 904,
+      "alt": "",
+      "source": "Google Slides · asset 072"
+    },
+    "a073": {
+      "label": "Sticker · máscara de luchador magenta",
+      "kind": "image",
+      "src": "reference/assets/073.png",
+      "w": 1596,
+      "h": 2048,
+      "alt": "",
+      "source": "Google Slides · asset 073"
+    },
+    "a076": {
+      "label": "Cinta adhesiva vertical",
+      "kind": "image",
+      "src": "reference/assets/076.png",
+      "w": 1080,
+      "h": 1080,
+      "alt": "",
+      "source": "Google Slides · asset 076"
+    },
+    "a077": {
+      "label": "Cinta adhesiva cruzada",
+      "kind": "image",
+      "src": "reference/assets/077.png",
+      "w": 1080,
+      "h": 1080,
+      "alt": "",
+      "source": "Google Slides · asset 077"
+    },
+    "a078": {
+      "label": "Cinta adhesiva negra vertical",
+      "kind": "image",
+      "src": "reference/assets/078.png",
+      "w": 1080,
+      "h": 1080,
+      "alt": "",
+      "source": "Google Slides · asset 078"
+    },
+    "a084": {
+      "label": "Trazo · subrayado azul grueso",
+      "kind": "image",
+      "src": "reference/assets/084.png",
+      "w": 747,
+      "h": 203,
+      "alt": "",
+      "source": "Google Slides · asset 084"
+    },
+    "a085": {
+      "label": "Doodle · carita verde",
+      "kind": "image",
+      "src": "reference/assets/085.png",
+      "w": 1218,
+      "h": 1200,
+      "alt": "",
+      "source": "Google Slides · asset 085"
+    },
+    "a087": {
+      "label": "Doodle · tres líneas verde",
+      "kind": "image",
+      "src": "reference/assets/087.png",
+      "w": 1056,
+      "h": 1180,
+      "alt": "",
+      "source": "Google Slides · asset 087"
+    },
+    "a088": {
+      "label": "Doodle · destello verde",
+      "kind": "image",
+      "src": "reference/assets/088.png",
+      "w": 939,
+      "h": 990,
+      "alt": "",
+      "source": "Google Slides · asset 088"
+    },
+    "a090": {
+      "label": "Doodle · X verde",
+      "kind": "image",
+      "src": "reference/assets/090.png",
+      "w": 1158,
+      "h": 1075,
+      "alt": "",
+      "source": "Google Slides · asset 090"
+    },
+    "a091": {
+      "label": "Doodle · óvalo verde",
+      "kind": "image",
+      "src": "reference/assets/091.png",
+      "w": 1541,
+      "h": 1061,
+      "alt": "",
+      "source": "Google Slides · asset 091"
+    },
+    "a093": {
+      "label": "Doodle · corona verde",
+      "kind": "image",
+      "src": "reference/assets/093.png",
+      "w": 1513,
+      "h": 1432,
+      "alt": "",
+      "source": "Google Slides · asset 093"
+    },
+    "a094": {
+      "label": "Doodle · carita magenta",
+      "kind": "image",
+      "src": "reference/assets/094.png",
+      "w": 1218,
+      "h": 1200,
+      "alt": "",
+      "source": "Google Slides · asset 094"
+    },
+    "a095": {
+      "label": "Doodle · !! magenta",
+      "kind": "image",
+      "src": "reference/assets/095.png",
+      "w": 926,
+      "h": 1393,
+      "alt": "",
+      "source": "Google Slides · asset 095"
+    },
+    "a096": {
+      "label": "Doodle · tres líneas magenta",
+      "kind": "image",
+      "src": "reference/assets/096.png",
+      "w": 1056,
+      "h": 1180,
+      "alt": "",
+      "source": "Google Slides · asset 096"
+    },
+    "a097": {
+      "label": "Doodle · destello magenta",
+      "kind": "image",
+      "src": "reference/assets/097.png",
+      "w": 939,
+      "h": 990,
+      "alt": "",
+      "source": "Google Slides · asset 097"
+    },
+    "a098": {
+      "label": "Doodle · flecha magenta",
+      "kind": "image",
+      "src": "reference/assets/098.png",
+      "w": 1564,
+      "h": 686,
+      "alt": "",
+      "source": "Google Slides · asset 098"
+    },
+    "a099": {
+      "label": "Doodle · X magenta",
+      "kind": "image",
+      "src": "reference/assets/099.png",
+      "w": 1158,
+      "h": 1075,
+      "alt": "",
+      "source": "Google Slides · asset 099"
+    },
+    "a100": {
+      "label": "Doodle · óvalo magenta",
+      "kind": "image",
+      "src": "reference/assets/100.png",
+      "w": 1541,
+      "h": 1061,
+      "alt": "",
+      "source": "Google Slides · asset 100"
+    },
+    "a101": {
+      "label": "Doodle · asterisco magenta",
+      "kind": "image",
+      "src": "reference/assets/101.png",
+      "w": 996,
+      "h": 1389,
+      "alt": "",
+      "source": "Google Slides · asset 101"
+    },
+    "a102": {
+      "label": "Doodle · garabato M magenta",
+      "kind": "image",
+      "src": "reference/assets/102.png",
+      "w": 1352,
+      "h": 993,
+      "alt": "",
+      "source": "Google Slides · asset 102"
+    },
+    "a103": {
+      "label": "Doodle · corona magenta",
+      "kind": "image",
+      "src": "reference/assets/103.png",
+      "w": 1513,
+      "h": 1432,
+      "alt": "",
+      "source": "Google Slides · asset 103"
+    },
+    "a104": {
+      "label": "Doodle · carita azul",
+      "kind": "image",
+      "src": "reference/assets/104.png",
+      "w": 1218,
+      "h": 1200,
+      "alt": "",
+      "source": "Google Slides · asset 104"
+    },
+    "a106": {
+      "label": "Doodle · tres líneas azul",
+      "kind": "image",
+      "src": "reference/assets/106.png",
+      "w": 1056,
+      "h": 1180,
+      "alt": "",
+      "source": "Google Slides · asset 106"
+    },
+    "a107": {
+      "label": "Doodle · destello azul",
+      "kind": "image",
+      "src": "reference/assets/107.png",
+      "w": 939,
+      "h": 990,
+      "alt": "",
+      "source": "Google Slides · asset 107"
+    },
+    "a108": {
+      "label": "Doodle · flecha azul",
+      "kind": "image",
+      "src": "reference/assets/108.png",
+      "w": 1564,
+      "h": 686,
+      "alt": "",
+      "source": "Google Slides · asset 108"
+    },
+    "a109": {
+      "label": "Doodle · X azul",
+      "kind": "image",
+      "src": "reference/assets/109.png",
+      "w": 1158,
+      "h": 1075,
+      "alt": "",
+      "source": "Google Slides · asset 109"
+    },
+    "a111": {
+      "label": "Doodle · asterisco azul",
+      "kind": "image",
+      "src": "reference/assets/111.png",
+      "w": 996,
+      "h": 1389,
+      "alt": "",
+      "source": "Google Slides · asset 111"
+    },
+    "a113": {
+      "label": "Doodle · corona azul",
+      "kind": "image",
+      "src": "reference/assets/113.png",
+      "w": 1513,
+      "h": 1432,
+      "alt": "",
+      "source": "Google Slides · asset 113"
+    },
+    "a114": {
+      "label": "Doodle · carita blanco",
+      "kind": "image",
+      "src": "reference/assets/114.png",
+      "w": 1218,
+      "h": 1200,
+      "alt": "",
+      "source": "Google Slides · asset 114"
+    },
+    "a115": {
+      "label": "Doodle · !! blanco",
+      "kind": "image",
+      "src": "reference/assets/115.png",
+      "w": 926,
+      "h": 1393,
+      "alt": "",
+      "source": "Google Slides · asset 115"
+    },
+    "a117": {
+      "label": "Doodle · destello blanco",
+      "kind": "image",
+      "src": "reference/assets/117.png",
+      "w": 939,
+      "h": 990,
+      "alt": "",
+      "source": "Google Slides · asset 117"
+    },
+    "a118": {
+      "label": "Doodle · flecha blanco",
+      "kind": "image",
+      "src": "reference/assets/118.png",
+      "w": 1564,
+      "h": 686,
+      "alt": "",
+      "source": "Google Slides · asset 118"
+    },
+    "a119": {
+      "label": "Doodle · X blanco",
+      "kind": "image",
+      "src": "reference/assets/119.png",
+      "w": 1158,
+      "h": 1075,
+      "alt": "",
+      "source": "Google Slides · asset 119"
+    },
+    "a120": {
+      "label": "Doodle · óvalo blanco",
+      "kind": "image",
+      "src": "reference/assets/120.png",
+      "w": 1541,
+      "h": 1061,
+      "alt": "",
+      "source": "Google Slides · asset 120"
+    },
+    "a121": {
+      "label": "Doodle · asterisco blanco",
+      "kind": "image",
+      "src": "reference/assets/121.png",
+      "w": 996,
+      "h": 1389,
+      "alt": "",
+      "source": "Google Slides · asset 121"
+    },
+    "a122": {
+      "label": "Doodle · garabato M blanco",
+      "kind": "image",
+      "src": "reference/assets/122.png",
+      "w": 1352,
+      "h": 993,
+      "alt": "",
+      "source": "Google Slides · asset 122"
+    },
+    "a123": {
+      "label": "Doodle · corona blanco",
+      "kind": "image",
+      "src": "reference/assets/123.png",
+      "w": 1513,
+      "h": 1432,
+      "alt": "",
+      "source": "Google Slides · asset 123"
+    },
+    "a124": {
+      "label": "Trazo · destello azul",
+      "kind": "image",
+      "src": "reference/assets/124.png",
+      "w": 1187,
+      "h": 849,
+      "alt": "",
+      "source": "Google Slides · asset 124"
+    },
+    "a125": {
+      "label": "Trazo · marcador azul 125",
+      "kind": "image",
+      "src": "reference/assets/125.png",
+      "w": 2048,
+      "h": 700,
+      "alt": "",
+      "source": "Google Slides · asset 125"
+    },
+    "a126": {
+      "label": "Trazo · marcador azul 126",
+      "kind": "image",
+      "src": "reference/assets/126.png",
+      "w": 2048,
+      "h": 490,
+      "alt": "",
+      "source": "Google Slides · asset 126"
+    },
+    "a127": {
+      "label": "Trazo · marcador azul 127",
+      "kind": "image",
+      "src": "reference/assets/127.png",
+      "w": 2048,
+      "h": 646,
+      "alt": "",
+      "source": "Google Slides · asset 127"
+    },
+    "a128": {
+      "label": "Trazo · marcador azul 128",
+      "kind": "image",
+      "src": "reference/assets/128.png",
+      "w": 2048,
+      "h": 638,
+      "alt": "",
+      "source": "Google Slides · asset 128"
+    },
+    "a129": {
+      "label": "Trazo · marcador azul 129",
+      "kind": "image",
+      "src": "reference/assets/129.png",
+      "w": 1926,
+      "h": 770,
+      "alt": "",
+      "source": "Google Slides · asset 129"
+    },
+    "a130": {
+      "label": "Trazo · marcador azul 130",
+      "kind": "image",
+      "src": "reference/assets/130.png",
+      "w": 2048,
+      "h": 393,
+      "alt": "",
+      "source": "Google Slides · asset 130"
+    },
+    "a131": {
+      "label": "Trazo · marcador azul 131",
+      "kind": "image",
+      "src": "reference/assets/131.png",
+      "w": 2048,
+      "h": 333,
+      "alt": "",
+      "source": "Google Slides · asset 131"
+    },
+    "a132": {
+      "label": "Trazo · marcador azul 132",
+      "kind": "image",
+      "src": "reference/assets/132.png",
+      "w": 2048,
+      "h": 351,
+      "alt": "",
+      "source": "Google Slides · asset 132"
+    },
+    "a133": {
+      "label": "Trazo · marcador azul 133",
+      "kind": "image",
+      "src": "reference/assets/133.png",
+      "w": 2048,
+      "h": 351,
+      "alt": "",
+      "source": "Google Slides · asset 133"
+    },
+    "a134": {
+      "label": "Trazo · marcador azul 134",
+      "kind": "image",
+      "src": "reference/assets/134.png",
+      "w": 2048,
+      "h": 245,
+      "alt": "",
+      "source": "Google Slides · asset 134"
+    },
+    "a135": {
+      "label": "Trazo · marcador azul 135",
+      "kind": "image",
+      "src": "reference/assets/135.png",
+      "w": 2048,
+      "h": 696,
+      "alt": "",
+      "source": "Google Slides · asset 135"
+    },
+    "a136": {
+      "label": "Trazo · marcador azul 136",
+      "kind": "image",
+      "src": "reference/assets/136.png",
+      "w": 2048,
+      "h": 300,
+      "alt": "",
+      "source": "Google Slides · asset 136"
+    },
+    "a137": {
+      "label": "Trazo · marcador azul 137",
+      "kind": "image",
+      "src": "reference/assets/137.png",
+      "w": 2048,
+      "h": 981,
+      "alt": "",
+      "source": "Google Slides · asset 137"
+    },
+    "a138": {
+      "label": "Trazo · marcador azul 138",
+      "kind": "image",
+      "src": "reference/assets/138.png",
+      "w": 2048,
+      "h": 525,
+      "alt": "",
+      "source": "Google Slides · asset 138"
+    },
+    "a139": {
+      "label": "Trazo · marcador azul 139",
+      "kind": "image",
+      "src": "reference/assets/139.png",
+      "w": 2048,
+      "h": 519,
+      "alt": "",
+      "source": "Google Slides · asset 139"
+    },
+    "a140": {
+      "label": "Trazo · marcador verde 140",
+      "kind": "image",
+      "src": "reference/assets/140.png",
+      "w": 2048,
+      "h": 700,
+      "alt": "",
+      "source": "Google Slides · asset 140"
+    },
+    "a141": {
+      "label": "Trazo · marcador verde 141",
+      "kind": "image",
+      "src": "reference/assets/141.png",
+      "w": 2048,
+      "h": 490,
+      "alt": "",
+      "source": "Google Slides · asset 141"
+    },
+    "a142": {
+      "label": "Trazo · marcador verde 142",
+      "kind": "image",
+      "src": "reference/assets/142.png",
+      "w": 2048,
+      "h": 646,
+      "alt": "",
+      "source": "Google Slides · asset 142"
+    },
+    "a143": {
+      "label": "Trazo · marcador verde 143",
+      "kind": "image",
+      "src": "reference/assets/143.png",
+      "w": 2048,
+      "h": 638,
+      "alt": "",
+      "source": "Google Slides · asset 143"
+    },
+    "a144": {
+      "label": "Trazo · marcador verde 144",
+      "kind": "image",
+      "src": "reference/assets/144.png",
+      "w": 1926,
+      "h": 770,
+      "alt": "",
+      "source": "Google Slides · asset 144"
+    },
+    "a145": {
+      "label": "Trazo · marcador verde 145",
+      "kind": "image",
+      "src": "reference/assets/145.png",
+      "w": 2048,
+      "h": 393,
+      "alt": "",
+      "source": "Google Slides · asset 145"
+    },
+    "a146": {
+      "label": "Trazo · marcador verde 146",
+      "kind": "image",
+      "src": "reference/assets/146.png",
+      "w": 2048,
+      "h": 333,
+      "alt": "",
+      "source": "Google Slides · asset 146"
+    },
+    "a147": {
+      "label": "Trazo · marcador verde 147",
+      "kind": "image",
+      "src": "reference/assets/147.png",
+      "w": 2048,
+      "h": 351,
+      "alt": "",
+      "source": "Google Slides · asset 147"
+    },
+    "a148": {
+      "label": "Trazo · marcador verde 148",
+      "kind": "image",
+      "src": "reference/assets/148.png",
+      "w": 2048,
+      "h": 351,
+      "alt": "",
+      "source": "Google Slides · asset 148"
+    },
+    "a149": {
+      "label": "Trazo · marcador verde 149",
+      "kind": "image",
+      "src": "reference/assets/149.png",
+      "w": 2048,
+      "h": 245,
+      "alt": "",
+      "source": "Google Slides · asset 149"
+    },
+    "a150": {
+      "label": "Trazo · marcador verde 150",
+      "kind": "image",
+      "src": "reference/assets/150.png",
+      "w": 2048,
+      "h": 696,
+      "alt": "",
+      "source": "Google Slides · asset 150"
+    },
+    "a151": {
+      "label": "Trazo · marcador verde 151",
+      "kind": "image",
+      "src": "reference/assets/151.png",
+      "w": 2048,
+      "h": 300,
+      "alt": "",
+      "source": "Google Slides · asset 151"
+    },
+    "a152": {
+      "label": "Trazo · marcador verde 152",
+      "kind": "image",
+      "src": "reference/assets/152.png",
+      "w": 2048,
+      "h": 981,
+      "alt": "",
+      "source": "Google Slides · asset 152"
+    },
+    "a153": {
+      "label": "Trazo · marcador verde 153",
+      "kind": "image",
+      "src": "reference/assets/153.png",
+      "w": 2048,
+      "h": 525,
+      "alt": "",
+      "source": "Google Slides · asset 153"
+    },
+    "a154": {
+      "label": "Trazo · marcador verde 154",
+      "kind": "image",
+      "src": "reference/assets/154.png",
+      "w": 2048,
+      "h": 519,
+      "alt": "",
+      "source": "Google Slides · asset 154"
+    },
+    "s01-portada": {
+      "label": "Foto de portada (chica con jersey México frente a muro de stickers)",
+      "kind": "image",
+      "src": "reference/assets/cover-embedded.gif",
+      "w": 1600,
+      "h": 900,
+      "alt": "",
+      "source": "Fondo de la diapositiva 1 en Google Slides; no viene en reference/assets",
+      "missing": true
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "s28",
+  "title": "Díptico · marco naranja",
+  "background": "orange",
+  "elements": [
+    {"id": "foto-1", "type": "media", "media": "a049", "box": [10.8, 11.3, 277.7, 384], "fit": "cover"},
+    {"id": "foto-2", "type": "media", "media": "a050", "box": [297, 11.3, 413, 384], "fit": "cover", "pos": "50% 25%"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "s10",
+  "title": "Venimos de muchas (claro)",
+  "background": "paper",
+  "chrome": {"header": "blue", "footer": "blue"},
+  "elements": [
+    {"id": "ilustracion", "type": "media", "media": "a016", "box": [45, 62, 660, 297], "fit": "fill", "filter": "white", "opacity": 0.35},
+    {"id": "trazo", "type": "media", "media": "a022", "box": [197, 227, 317, 42]},
+    {"id": "intro-1", "type": "text", "box": [160, 114.5, 400, 26], "font": "expanded", "size": 21.5, "lh": 1.0, "color": "ink", "align": "center", "text": "No venimos"},
+    {"id": "intro-2", "type": "text", "box": [160, 132.0, 400, 22], "font": "expanded", "size": 18.4, "lh": 1.0, "color": "ink", "align": "center", "text": "de una sola historia."},
+    {"id": "titulo", "type": "text", "box": [160, 156.2, 400, 80], "font": "display", "size": 71.5, "lh": 1.0, "color": "blue", "align": "center", "text": "VENIMOS"},
+    {"id": "titulo-2", "type": "text", "box": [110, 226.4, 500, 42], "font": "expanded", "size": 37.5, "lh": 1.0, "color": "blue", "align": "center", "wrap": false, "text": "DE MUCHAS."},
+    {"id": "cierre", "type": "text", "box": [160, 316.5, 400, 12], "font": "expanded", "size": 9, "lh": 1.02, "color": "green", "align": "center", "lineFill": "ink", "lineFillPad": 0.6, "text": "México se cuenta en plural."}
+  ]
+}

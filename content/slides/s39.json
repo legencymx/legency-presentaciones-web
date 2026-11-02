@@ -1,0 +1,32 @@
+{
+  "id": "s39",
+  "title": "Kit de stickers",
+  "background": "black",
+  "elements": [
+    {"id": "pieza-01", "type": "media", "media": "a002", "box": [36, 64, 61, 27], "fit": "fill"},
+    {"id": "pieza-02", "type": "media", "media": "a005", "box": [139, 64, 61, 34], "fit": "fill"},
+    {"id": "pieza-03", "type": "media", "media": "a017", "box": [36, 125, 73, 66], "fit": "fill"},
+    {"id": "pieza-04", "type": "media", "media": "a066", "box": [131, 125, 73, 66], "fit": "fill"},
+    {"id": "pieza-05", "type": "media", "media": "a067", "box": [233, 133, 114, 51], "fit": "fill"},
+    {"id": "pieza-06", "type": "media", "media": "a068", "box": [257, 61, 61, 34], "fit": "fill"},
+    {"id": "pieza-07", "type": "media", "media": "a069", "box": [381, 139, 42, 40], "fit": "fill"},
+    {"id": "pieza-08", "type": "media", "media": "a013", "box": [496, 139, 42, 40], "fit": "fill"},
+    {"id": "pieza-09", "type": "media", "media": "a019", "box": [438, 139, 42, 40], "fit": "fill"},
+    {"id": "pieza-10", "type": "media", "media": "a072", "box": [554, 152, 47, 21], "fit": "fill"},
+    {"id": "pieza-11", "type": "media", "media": "a073", "box": [142, 202, 47, 61], "fit": "fill"},
+    {"id": "pieza-12", "type": "media", "media": "a041", "box": [41, 209, 45, 57], "fit": "fill"},
+    {"id": "pieza-13", "type": "media", "media": "a057", "box": [232.7, 211.5, 131.9, 41.4], "crop": [0.102, 0.378, 0.12, 0.382]},
+    {"id": "pieza-14", "type": "media", "media": "a060", "box": [400.5, 213.8, 88.7, 38.3], "crop": [0.168, 0.357, 0.167, 0.355]},
+    {"id": "pieza-15", "type": "media", "media": "a076", "box": [543, 209, 31, 141], "crop": [0.4, 0.117, 0.4, 0.115], "rotate": 4},
+    {"id": "pieza-16", "type": "media", "media": "a077", "box": [63, 297, 130.5, 65], "crop": [0.185, 0.345, 0.185, 0.345]},
+    {"id": "pieza-17", "type": "media", "media": "a078", "box": [613, 218, 58.5, 113.4], "crop": [0.35, 0.207, 0.35, 0.208]},
+    {"id": "pieza-18", "type": "media", "media": "a025", "box": [245, 276.8, 88.7, 91.4], "crop": [0.285, 0.28, 0.285, 0.28]},
+    {"id": "pieza-19", "type": "media", "media": "a021", "box": [376, 92, 161, 21], "fit": "fill"},
+    {"id": "pieza-20", "type": "media", "media": "a022", "box": [376, 61, 160, 21], "fit": "fill"},
+    {"id": "pieza-21", "type": "media", "media": "a004", "box": [398, 300, 112, 38], "crop": [0.17, 0.412, 0.157, 0.39], "rotate": -24},
+    {"id": "pieza-22", "type": "media", "media": "a045", "box": [575, 65, 109, 29], "fit": "fill"},
+    {"id": "pieza-23", "type": "media", "media": "a037", "box": [575, 31, 109, 29], "fit": "fill"},
+    {"id": "pieza-24", "type": "media", "media": "a084", "box": [580, 100, 109, 30], "fit": "fill"},
+    {"id": "pieza-25", "type": "media", "media": "a015", "box": [625, 146, 34, 34], "fit": "fill"}
+  ]
+}
