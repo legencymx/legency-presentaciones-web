@@ -260,5 +260,15 @@ export async function loadDeck(base = new URL('../content/', import.meta.url)) {
   };
   const [deck, theme, media] = await Promise.all([get('deck.json'), get('theme.json'), get('media.json')]);
   const slides = await Promise.all(deck.slides.map(id => get(`slides/${id}.json`)));
-  return { deck, theme, media, slides };
+  const baseline = { deck, theme, media, slides };
+  // La versión compartida es un único archivo reemplazable por colaboradores de GitHub.
+  // En desarrollo local, un 404 mantiene el template como fuente de verdad.
+  try {
+    const res = await fetch(new URL('../published.json', base), { cache: 'no-cache' });
+    if (res.ok) {
+      const published = await res.json();
+      if (published?.slides?.length > 0 && published.deck && published.theme && published.media) return published;
+    }
+  } catch { /* sin versión publicada; usa el template */ }
+  return baseline;
 }

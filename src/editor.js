@@ -107,6 +107,14 @@ function inspect() {
     shared.onchange = upload(shared, true);
     fields.append(field('Reemplazar solo esta aparición', file));
     fields.append(field('Reemplazar todas las apariciones', shared));
+    fields.append(field('URL de medio ya alojado (útil para MP4 grandes)', input('text', '', value => {
+      const url = value.trim();
+      if (!/^https:\/\//i.test(url) && !/^reference\/assets\/[\w.\-/]+$/i.test(url)) { alert('Usa una URL https:// o una ruta reference/assets/.'); return; }
+      const id = `custom-url-${Date.now()}`;
+      state.media.media[id] = { src: url, kind: /\.(mp4|webm)(?:[?#]|$)/i.test(url) ? 'video' : 'image', alt: '', source: url };
+      e.media = id;
+      listLibrary();
+    })));
     fields.append(field('Recurso existente', select(Object.keys(state.media.media).map(id => [id, `${id} · ${state.media.media[id].source || ''}`]), e.media, v => e.media = v)));
     fields.append(field('Ajuste', select([['cover','Cubrir'],['contain','Completo'],['fill','Estirar']], e.fit || 'contain', v => e.fit = v)));
     fields.append(field('Encuadre (ej. 50% 50%)', input('text', e.pos || '50% 50%', v => e.pos = v)));
@@ -131,6 +139,10 @@ function download(name, payload) {
   const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
   const url = URL.createObjectURL(blob); const a = document.createElement('a'); a.href = url; a.download = name; a.click(); setTimeout(() => URL.revokeObjectURL(url), 1000);
 }
+$('reset').onclick = () => {
+  if (!confirm('¿Descartar el borrador guardado en este navegador y cargar la versión compartida?')) return;
+  checkpoint(); state = clone(original); current = 0; selected = null; localStorage.removeItem(key); listSlides(); render(); themeFields(); listLibrary();
+};
 $('undo').onclick = () => { if (!history.length) return; state = history.pop(); current = Math.min(current, state.slides.length - 1); save(); listSlides(); render(); themeFields(); listLibrary(); };
 $('up').onclick = () => moveSlide(-1);
 $('down').onclick = () => moveSlide(1);
@@ -147,7 +159,7 @@ $('remove').onclick = () => {
   checkpoint(); state.slides.splice(current, 1);
   current = Math.min(current, state.slides.length - 1); selected = null; syncOrder();
 };
-$('export').onclick = () => download('legency-presentaciones-cambios.json', { ...state, exportedAt: new Date().toISOString() });
+$('export').onclick = () => download('published.json', { ...state, exportedAt: new Date().toISOString() });
 $('import').onchange = async event => {
   const file = event.target.files?.[0]; if (!file) return;
   try {
